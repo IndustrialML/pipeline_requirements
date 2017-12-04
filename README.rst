@@ -130,8 +130,15 @@ Table 2 lists a set of high-level tests that should be performed by the differen
 *Table 2 Quality ensuring tests grouped by the corresponding component*
 
 
+--------
+3. Links
+--------
+
+- https://machinelearningmastery.com/deploy-machine-learning-model-to-production/
+- http://keystone-ml.org/
+
 ---------------
-3. Bibliography
+4. Bibliography
 ---------------
 
 [1] 
